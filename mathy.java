@@ -244,6 +244,10 @@ public class mathy
 
 
 	}
+	public void ahh()
+{
+//more conflicts lolololol
+}
 	public void testingbranch (int x)
 	{
 		System.out.print(x);
