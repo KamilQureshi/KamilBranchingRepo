@@ -4,6 +4,20 @@ Fun things like how to type words
 how to make this happen, 
 how to make the world work. 
 
+this document will surely create conflicts.... 
+
 I write a haiku.
 for all the world to see it. 
 give me more stanzas. 
+
+I write more for you. 
+more better literature
+let me try again
+
+I can add rhymes too.
+Can I ever write enough? 
+there is so much stuff.  
+
+This is a haiku
+Not all of them are the best
+Refrigerator
