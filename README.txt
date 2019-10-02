@@ -4,6 +4,8 @@ Fun things like how to type words
 how to make this happen, 
 how to make the world work. 
 
+this document will surely create conflicts.... 
+
 I write a haiku.
 for all the world to see it. 
 give me more stanzas. 
