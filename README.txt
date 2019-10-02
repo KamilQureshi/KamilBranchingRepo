@@ -8,6 +8,10 @@ I write a haiku.
 for all the world to see it. 
 give me more stanzas. 
 
-another stanza
+I write more for you. 
 more better literature
 let me try again
+
+I can add rhymes too.
+Can I ever write enough? 
+there is so much stuff.  
