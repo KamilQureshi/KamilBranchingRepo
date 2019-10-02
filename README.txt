@@ -17,3 +17,7 @@ let me try again
 I can add rhymes too.
 Can I ever write enough? 
 there is so much stuff.  
+
+This is a haiku
+Not all of them are the best
+Refrigerator
