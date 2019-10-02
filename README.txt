@@ -7,3 +7,7 @@ how to make the world work.
 I write a haiku.
 for all the world to see it. 
 give me more stanzas. 
+
+This is a haiku
+Not all of them are the best
+Refrigerator
