@@ -30,3 +30,8 @@ What am I doing
 I am wasting my time now
 end my suffering
 
+Physics is so hard 
+mastering and mechanics 
+electricity
+
+
