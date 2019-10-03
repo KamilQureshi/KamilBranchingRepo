@@ -18,6 +18,12 @@ This is a haiku
 Not all of them are the best
 Refrigerator
 
+a washing machine.
+cooking in a new oven.
+ancient microwave.
+
 An old silent pond...
 A frog jumps into the pond,
 splash! Silence again.
+
+
