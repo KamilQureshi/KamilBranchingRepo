@@ -26,4 +26,7 @@ An old silent pond...
 A frog jumps into the pond,
 splash! Silence again.
 
+What am I doing 
+I am wasting my time now
+end my suffering
 
