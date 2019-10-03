@@ -30,3 +30,6 @@ What am I doing
 I am wasting my time now
 end my suffering
 
+Papa Hans no good
+teach us the stuff on the test
+end my suffering
