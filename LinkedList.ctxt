@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\r\n\ \ \ A\ linked\ list\ is\ a\ sequence\ of\ nodes\ with\ efficient\r\n\ \ \ element\ insertion\ and\ removal.\ This\ class\r\n\ \ \ contains\ a\ subset\ of\ the\ methods\ of\ the\ standard\r\n\ \ \ java.util.LinkedList\ class.\r\n
+comment1.params=
+comment1.target=LinkedList()
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ an\ empty\ linked\ list.\r\n
+comment10.params=
+comment10.target=java.lang.Object\ removeFirst()
+comment10.text=\r\n\ \ \ \ \ \ Removes\ the\ first\ element\ in\ the\ linked\ list.\r\n\ \ \ \ \ \ @return\ the\ removed\ element\r\n
+comment11.params=element
+comment11.target=void\ addFirst(java.lang.Object)
+comment11.text=\r\n\ \ \ \ \ \ Adds\ an\ element\ to\ the\ front\ of\ the\ linked\ list.\r\n\ \ \ \ \ \ @param\ element\ the\ element\ to\ add\r\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=public\ int\ size()\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ Node\ temp1\ \=\ first;\r\n\ \ \ \ \ \ \ int\ temp2\ \=\ 0;\ \r\n\ \ \ \ \ \ \ while(temp1.next\!\=null)\r\n\ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ temp1\ \=\ temp1.next;\r\n\ \ \ \ \ \ \ \ \ \ \ temp2++;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ return\ temp2+1;\r\n}
+comment3.params=no
+comment3.target=int\ size(LinkedList.Node)
+comment4.params=element
+comment4.target=boolean\ contains(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ getFirst()
+comment5.text=\r\n\ \ \ \ \ \ Returns\ the\ first\ element\ in\ the\ linked\ list.\r\n\ \ \ \ \ \ @return\ the\ first\ element\ in\ the\ linked\ list\r\n
+comment6.params=n\ o
+comment6.target=void\ set(int,\ java.lang.Object)
+comment7.params=n
+comment7.target=java.lang.Object\ get(int)
+comment8.params=n
+comment8.target=LinkedList.Node\ getNode(int)
+comment9.params=
+comment9.target=void\ reverse()
+numComments=12

@@ -1,8 +1,4 @@
 import java.util.NoSuchElementException;
-import java.util.NoSuchElementException;
-import java.util.NoSuchElementException;
-import java.util.NoSuchElementException;
-import java.util.NoSuchElementException;
 
 /**
    A linked list is a sequence of nodes with efficient
@@ -94,22 +90,22 @@ public class LinkedList
         return no;
     }
     public void reverse(){   
-	Node o = new Node();   
-	Node one = first;
-	int size = size();
-	for(int i=0;i<size;i++)   
-	{      
-		Node two = one.next;      
-		two.next = one; 
-		two.data = one.next.data;      
-		two.next.data = one.data;
-		one = two;  
-		
+    Node o = new Node();   
+    Node one = first;
+    int size = size();
+    for(int i=0;i<size;i++)   
+    {      
+        Node two = one.next;      
+        two.next = one; 
+        two.data = one.next.data;      
+        two.next.data = one.data;
+        one = two;  
+        
         }   
-	first.next = null;   
-	Node replace = getNode(size()-1);   
-	set(size()-1,first);   
-	first = replace;
+    first.next = null;   
+    Node replace = getNode(size()-1);   
+    set(size()-1,first);   
+    first = replace;
 }
 
    /**
@@ -143,18 +139,19 @@ public class LinkedList
    
 
 
-
+    
    /**
       Returns an iterator for iterating through this list.
       @return an iterator for iterating through this list
    */
+  /*
     public ListIterator listIterator(){
     return new LinkedListIterator();
     
     
     }
     
-    
+    */
     
 
 
@@ -167,7 +164,7 @@ public class LinkedList
        
     }
 
-   class LinkedListIterator implements ListIterator
+   class LinkedListIterator //implements ListIterator
    {
       //private data
       private Node position;

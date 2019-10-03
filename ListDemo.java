@@ -15,7 +15,7 @@ public class ListDemo
       //System.out.println(staff.getFirst());
       
       // | in the comments indicates the iterator position
-      ListIterator iterator = staff.listIterator(); // |DRHT
+      //******ListIterator iterator = staff.listIterator(); // |DRHT
       //iterator.next();//D|RHT
       //iterator.next();//DR|HT
       
@@ -34,6 +34,7 @@ public class ListDemo
       // Print all elements
       
       //iterator = staff.listIterator();
+      /*
       System.out.println(staff.size());
       staff.reverse();
       while (iterator.hasNext())
@@ -47,5 +48,14 @@ public class ListDemo
          System.out.print(iterator.next() + " ");
       }
       System.out.println();
+      */
+     
+     System.out.println("----in order to test the equals method----");
+     
+     System.out.println("True:" + staff.contains("Tom"));
+     System.out.println("False:" + staff.contains("tom"));
+     System.out.println("False:" + staff.contains("alpal"));
+      
+      
    }
 }
