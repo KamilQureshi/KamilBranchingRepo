@@ -1,10 +1,6 @@
-Welcome to Kamil's Branching Repo, 
-a great location where we get to learn fun things. 
-Fun things like how to type words 
-how to make this happen, 
-how to make the world work. 
-
-this document will surely create conflicts.... 
+Welcome to Kamil's 
+Branching Repository
+where we write haiku
 
 I write a haiku.
 for all the world to see it. 
@@ -21,6 +17,14 @@ there is so much stuff.
 This is a haiku
 Not all of them are the best
 Refrigerator
+
+a washing machine.
+cooking in a new oven.
+ancient microwave.
+
+An old silent pond...
+A frog jumps into the pond,
+splash! Silence again.
 
 What am I doing 
 I am wasting my time now
